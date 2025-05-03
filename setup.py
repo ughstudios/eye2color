@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="eye2color",
-    version="0.1.1",
+    version="0.1.2",
     description="CLI for Wuhan Jingce EYE2-400 Color Analyzer (MES,1)",
     author="Your Name",
     author_email="your.email@example.com",
